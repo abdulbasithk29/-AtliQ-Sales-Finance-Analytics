@@ -1,0 +1,1 @@
+This repository comprises a collection of analytics reports focused on sales and finance, intended to provide businesses with the tools they need to effectively monitor and assess their sales operations and financial health.
