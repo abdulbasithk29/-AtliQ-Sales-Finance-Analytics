@@ -1,4 +1,5 @@
 This repository comprises a collection of analytics reports of a company, Atliq Hardware focused on sales and finance, intended to provide businesses with the tools they need to effectively monitor and assess their sales operations and financial health.
+
 **Sales Analytics**
 1. AtliQ_ Customer Performance Report.
 2. AtliQ_ Market Performance vs Target.
@@ -9,10 +10,12 @@ This repository comprises a collection of analytics reports of a company, Atliq 
 7. AtliQ_ Top5ProductsByQuantitySold
 8. AtliQ_DivisionLevelReport
 9. AtliQ_Top10Products
+
 **Finance Analytics**
 1. AtliQ_ P & L By Fiscal years
 2. AtliQ_ GM % By Quarters (Sub-zone)
 3. AtliQ_ P & L for Markets
+
 **Technical & Soft Skills**
 1. Learned how to create reports that show how well customers are performing and compare market performance with sales targets.
 2. Developed skills in working with data, such as organizing and analyzing it using tools like Power Query, Power Pivot, and DAX.
