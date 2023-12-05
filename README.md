@@ -2,14 +2,14 @@ This repository comprises a collection of analytics reports of a company, Atliq 
 
 **Sales Analytics**
 1. AtliQ_ Customer Performance Report. (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-2. AtliQ_ Market Performance vs Target.
-3. AtliQ_ Sales_India.
-4. AtliQ_ Bottom5ProductsByQuantitySold.
-5. AtliQ_ NewProducts2021
-6. AtliQ_ Top5Countries2021
-7. AtliQ_ Top5ProductsByQuantitySold
-8. AtliQ_DivisionLevelReport
-9. AtliQ_Top10Products
+2. AtliQ_ Market Performance vs Target. (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
+3. AtliQ_ Sales_India. (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/Sales_India.pdf)
+4. AtliQ_ Bottom5ProductsByQuantitySold. (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_%20Bottom5ProductsByQuantitySold.pdf)
+5. AtliQ_ NewProducts2021 (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_%20NewProducts2021.pdf)
+6. AtliQ_ Top5Countries2021 (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_%20Top5Countries2021.pdf)
+7. AtliQ_ Top5ProductsByQuantitySold (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_%20Top5ProductsByQuantitySold.pdf)
+8. AtliQ_DivisionLevelReport (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_DivisionLevelReport.pdf)
+9. AtliQ_Top10Products (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_Top10Products.pdf)
 
 **Finance Analytics**
 1. AtliQ_ P & L By Fiscal years
