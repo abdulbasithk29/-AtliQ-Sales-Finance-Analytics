@@ -1,7 +1,7 @@
 This repository comprises a collection of analytics reports of a company, Atliq Hardware focused on sales and finance, intended to provide businesses with the tools they need to effectively monitor and assess their sales operations and financial health.
 
 **Sales Analytics**
-1. AtliQ_ Customer Performance Report.
+1. AtliQ_ Customer Performance Report. (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 2. AtliQ_ Market Performance vs Target.
 3. AtliQ_ Sales_India.
 4. AtliQ_ Bottom5ProductsByQuantitySold.
