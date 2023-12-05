@@ -12,13 +12,20 @@ This repository comprises a collection of analytics reports of a company, Atliq 
 9. AtliQ_Top10Products (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_Top10Products.pdf)
 
 **Finance Analytics**
-1. AtliQ_ P & L By Fiscal years
-2. AtliQ_ GM % By Quarters (Sub-zone)
-3. AtliQ_ P & L for Markets
+1. AtliQ_ P & L By Fiscal years (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_%20P%20%26%20L%20By%20Fiscal%20years.pdf)
+2. AtliQ_ GM % By Quarters (Sub-zone) (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_%20GM%20%25%20By%20Quarters%20(Sub-zone).pdf)
+3. AtliQ_ P & L for Markets (https://github.com/abdulbasithk29/-AtliQ-Sales-Finance-Analytics/blob/main/AtliQ_%20P%20%26%20L%20for%20Markets.pdf)
 
-**Technical & Soft Skills**
-1. Learned how to create reports that show how well customers are performing and compare market performance with sales targets.
-2. Developed skills in working with data, such as organizing and analyzing it using tools like Power Query, Power Pivot, and DAX.
-3. Gained the ability to understand sales data, identify trends, and track important indicators to make better decisions and allocate resources effectively.
-4. Gained domain knowledge in creating Profit and Loss (P&L) reports, evaluating financial performance, and communicating with stakeholders.
-5. Developed technical skills in understanding P&L statements, incorporating supplementary data, and optimizing report generation.
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
